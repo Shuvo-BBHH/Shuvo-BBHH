@@ -18,9 +18,12 @@
 Skills: VUE JS / REACT / JS / HTML / CSS/PYTHONE
 
 -#🔭 I’m currently working on Styde on class 10 
--#🌱 I’m currently learning Pyhone/HTML / CSS/ 
--#👯 I’m looking to collaborate on github 
--#💬 Ask me about fb king 
+-
+#🌱 I’m currently learning Pyhone/HTML / CSS/ 
+-
+#👯 I’m looking to collaborate on github 
+-
+#💬 Ask me about fb king 
 
 
  
