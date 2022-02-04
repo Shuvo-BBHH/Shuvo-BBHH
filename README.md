@@ -14,7 +14,13 @@
 💙
 ꧁❤꧂꧁❤꧂
 
-
+0
+0
+4
+9
+3
+6
+6
 Skills: VUE JS / REACT / JS / HTML / CSS/PYTHONE
 
 -#🔭 I’m currently working on Styde on class 10 
