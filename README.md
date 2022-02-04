@@ -4,23 +4,17 @@
 #### Facebook Tool 
 ![Facebook Tool ](https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/272687253_2541397805995234_6592263027657807859_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFLgT5GfXI_9xZoaF7pA9rklY4QYk-QdD2VjhBiT5B0PVQ8_dn68qDZ18iT1F1kJK9B5lxZYj6cXtw7Q6IXF-VY&_nc_ohc=a3ys0Pae2lMAX_EdanE&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AT-RUx_eTIbcQAGF9evOPlwyMZGDf-CH1juaxoZ15lSb7Q&oe=61FC1C62)
 
-꧁♦💠🔷💠♦꧂
-꧁♦⚀🔷⚀♦꧂
+  ꧁♦💠🔷💠♦꧂
+  ꧁♦⚀🔷⚀♦꧂
 ☛♦Mahdi Hasan Shuvo♦☚
-꧁♦⚀🔷⚀♦꧂
-꧁♦💠🔷💠♦꧂
-◥♦◤
-◥♦◤
-💙
-꧁❤꧂꧁❤꧂
+  ꧁♦⚀🔷⚀♦꧂
+  ꧁♦💠🔷💠♦꧂
+       ♦◤
+      ◥♦◤
+       💙
+  ꧁❤꧂꧁❤꧂
 
-0
-0
-4
-9
-3
-6
-6
+
 Skills: VUE JS / REACT / JS / HTML / CSS/PYTHONE
 
 -#🔭 I’m currently working on Styde on class 10 
