@@ -16,6 +16,8 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shuvo-BBHH)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/mahdi80808)  
 </p>
+<a href="https://github.com/Termux-XYZ"><img title="Termux-XYZ" src="https://github-readme-stats.vercel.app/api?username=Termux-XYZ&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<a href="https://github.com/termux-xyz"><img title="termux-xyz" src="https://github-readme-stats.vercel.app/api?username=termux-xyz&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 
 
 
