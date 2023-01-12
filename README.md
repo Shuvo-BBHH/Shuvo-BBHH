@@ -5,13 +5,13 @@
 ![Study IN Class 10](https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/272687253_2541397805995234_6592263027657807859_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFLgT5GfXI_9xZoaF7pA9rklY4QYk-QdD2VjhBiT5B0PVQ8_dn68qDZ18iT1F1kJK9B5lxZYj6cXtw7Q6IXF-VY&_nc_ohc=S2iuhlO4ONYAX9d_j9i&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AT9aLbLHq1ifdOPW2oofwzKPgQPZZu9KvvkruC9mGzdKag&oe=6209F422)
 
 ####Relagion: iSLAM
-#### Study IN Class 10
+#### Study IN Class 11
 ####Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Pyhone/HTML / CSS/  
 - 💬 Ask me about Iam See vary Hot 
-- 📫 How to reach me: https://web.facebook.com/mahdi80808 
+- 📫 How to reach me: https://web.facebook.com/bk4human 
 
 
 h3><b><i>🏆 Github Statistics :</i></b></h3>
