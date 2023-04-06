@@ -2,7 +2,7 @@
 
 #![image (1)](https://user-images.githubusercontent.com/98658558/188384777-4a447796-0201-41a1-b926-40b036b33ae5.jpg)
 ![34bdb02a-2d21-4475-a500-812de060eca8](https://user-images.githubusercontent.com/98658558/230465527-fd2fae93-a1a2-4208-bde7-836b44abebcd.jpg)
-
+![image (1)](https://user-images.githubusercontent.com/98658558/188384777-4a447796-0201-41a1-b926-40b036b33ae5.jpg)
 ![Study IN Class 10](https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/272687253_2541397805995234_6592263027657807859_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFLgT5GfXI_9xZoaF7pA9rklY4QYk-QdD2VjhBiT5B0PVQ8_dn68qDZ18iT1F1kJK9B5lxZYj6cXtw7Q6IXF-VY&_nc_ohc=S2iuhlO4ONYAX9d_j9i&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AT9aLbLHq1ifdOPW2oofwzKPgQPZZu9KvvkruC9mGzdKag&oe=6209F422)
 
 ####Relagion: iSLAM
