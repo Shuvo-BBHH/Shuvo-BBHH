@@ -7,7 +7,7 @@
 
 ####Relagion: iSLAM
 #### Study IN Class 11
-####Skills: VUE JS / REACT / JS / HTML / CSS
+####Skills: Python/ JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Pyhone/HTML / CSS/  
